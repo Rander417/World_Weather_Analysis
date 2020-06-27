@@ -1,0 +1,572 @@
+,City,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Country,Date,Description,Rain last hr,Snow last hr
+0,Cruz Alta,-28.64,-53.61,45.05,85,58,12.84,BR,2020-06-27 23:25:44,descriptionexception,0.0,0.0
+1,Hobart,-42.88,147.33,39.99,93,20,9.17,AU,2020-06-27 23:25:44,descriptionexception,0.0,0.0
+2,Tuatapere,-46.13,167.68,47.59,85,100,3.87,NZ,2020-06-27 23:25:44,descriptionexception,0.0,0.0
+3,Lebu,-37.62,-73.65,51.8,88,100,12.59,CL,2020-06-27 23:25:44,descriptionexception,0.69,0.0
+4,Tasiilaq,65.61,-37.64,42.8,87,100,1.12,GL,2020-06-27 23:25:44,descriptionexception,0.0,0.0
+5,Mehamn,71.04,27.85,43.88,87,96,15.37,NO,2020-06-27 23:25:44,descriptionexception,0.0,0.0
+6,Havre,49.58,0.33,59.0,82,100,17.22,FR,2020-06-27 23:25:44,descriptionexception,0.0,0.0
+7,Hermanus,-34.42,19.23,53.01,90,51,1.99,ZA,2020-06-27 23:25:44,descriptionexception,0.12,0.0
+8,Ixtapa,20.7,-105.2,87.8,66,75,11.41,MX,2020-06-27 23:25:44,descriptionexception,0.0,0.0
+9,Ribeira Grande,38.52,-28.7,67.55,94,71,7.29,PT,2020-06-27 23:25:45,descriptionexception,0.0,0.0
+10,Leningradskiy,69.38,178.42,32.56,96,100,13.53,RU,2020-06-27 23:25:45,descriptionexception,0.0,0.29
+11,Tanhacu,-14.02,-41.25,71.91,70,44,3.78,BR,2020-06-27 23:24:41,descriptionexception,0.0,0.0
+12,Coquimbo,-29.95,-71.34,55.4,87,99,4.7,CL,2020-06-27 23:25:45,descriptionexception,0.0,0.0
+13,Ushuaia,-54.8,-68.3,35.6,64,20,18.34,AR,2020-06-27 23:25:13,descriptionexception,0.0,0.0
+14,Arlit,18.74,7.39,93.78,11,39,12.53,NE,2020-06-27 23:25:45,descriptionexception,0.0,0.0
+15,Jamestown,42.1,-79.24,75.0,73,75,14.99,US,2020-06-27 23:24:09,descriptionexception,0.0,0.0
+16,Port Shepstone,-30.74,30.45,66.18,60,0,8.3,ZA,2020-06-27 23:25:45,descriptionexception,0.0,0.0
+17,San Cristobal,7.77,-72.22,87.8,58,40,8.05,VE,2020-06-27 23:22:12,descriptionexception,0.0,0.0
+18,Port Elizabeth,-33.92,25.57,57.2,76,75,31.09,ZA,2020-06-27 23:23:09,descriptionexception,0.0,0.0
+19,Geraldton,-28.77,114.6,62.6,88,90,12.75,AU,2020-06-27 23:25:45,descriptionexception,0.0,0.0
+20,Bluff,-46.6,168.33,49.12,93,100,8.28,NZ,2020-06-27 23:25:45,descriptionexception,0.12,0.0
+21,Upernavik,72.79,-56.15,39.25,82,44,8.03,GL,2020-06-27 23:25:45,descriptionexception,0.0,0.0
+22,Souillac,-20.52,57.52,71.6,83,20,10.29,MU,2020-06-27 23:25:45,descriptionexception,0.0,0.0
+23,Nikolskoye,59.7,30.79,64.0,72,44,3.38,RU,2020-06-27 23:25:45,descriptionexception,0.0,0.0
+24,Kapaa,22.08,-159.32,84.99,66,1,14.99,US,2020-06-27 23:25:13,descriptionexception,0.0,0.0
+25,Bredasdorp,-34.53,20.04,57.2,71,57,14.99,ZA,2020-06-27 23:21:13,descriptionexception,0.0,0.0
+26,Khatanga,71.97,102.5,72.05,46,95,6.17,RU,2020-06-27 23:25:45,descriptionexception,0.0,0.0
+27,Faanui,-16.48,-151.75,76.93,74,60,15.5,PF,2020-06-27 23:25:45,descriptionexception,0.0,0.0
+28,Manavalakurichi,8.13,77.3,80.6,88,75,3.36,IN,2020-06-27 23:25:45,descriptionexception,0.0,0.0
+29,Hervey Bay,-25.3,152.85,55.0,92,14,5.99,AU,2020-06-27 23:25:46,descriptionexception,0.0,0.0
+30,Nanortalik,60.14,-45.24,43.02,86,83,2.39,GL,2020-06-27 23:25:46,descriptionexception,0.0,0.0
+31,Buala,-8.14,159.59,82.13,75,80,3.98,SB,2020-06-27 23:25:46,descriptionexception,1.05,0.0
+32,Albany,42.6,-73.97,70.0,83,100,2.71,US,2020-06-27 23:22:24,descriptionexception,0.0,0.0
+33,Avarua,-21.21,-159.78,75.2,60,21,16.11,CK,2020-06-27 23:25:46,descriptionexception,0.0,0.0
+34,Lazaro Cardenas,17.96,-102.2,86.43,65,62,8.7,MX,2020-06-27 23:25:46,descriptionexception,0.0,0.0
+35,Liepaja,56.54,21.04,64.4,93,71,5.41,LV,2020-06-27 23:25:46,descriptionexception,0.0,0.0
+36,Sosua,19.77,-70.52,84.2,89,40,16.11,DO,2020-06-27 23:25:46,descriptionexception,0.0,0.0
+37,Rikitea,-23.12,-134.97,70.41,75,3,17.9,PF,2020-06-27 23:25:46,descriptionexception,0.12,0.0
+38,Busselton,-33.65,115.33,60.01,82,90,18.79,AU,2020-06-27 23:25:46,descriptionexception,0.95,0.0
+39,La Ronge,55.1,-105.28,62.6,88,90,4.7,CA,2020-06-27 23:25:46,descriptionexception,0.0,0.0
+40,Pevek,69.7,170.31,33.06,95,77,21.43,RU,2020-06-27 23:25:46,descriptionexception,0.0,0.0
+41,Kodiak,57.79,-152.41,53.6,62,75,4.7,US,2020-06-27 23:25:46,descriptionexception,0.0,0.0
+42,Dongying,37.46,118.49,80.53,66,31,8.81,CN,2020-06-27 23:25:46,descriptionexception,0.0,0.0
+43,Barrow,71.29,-156.79,60.8,44,1,16.11,US,2020-06-27 23:22:54,descriptionexception,0.0,0.0
+44,Gravdal,68.12,13.5,53.92,72,73,14.29,NO,2020-06-27 23:25:46,descriptionexception,0.0,0.0
+45,Ojinaga,29.57,-104.42,96.8,20,1,4.7,MX,2020-06-27 23:25:46,descriptionexception,0.0,0.0
+46,Dikson,73.51,80.55,45.64,82,0,8.61,RU,2020-06-27 23:25:46,descriptionexception,0.0,0.0
+47,Xianshuigu,38.98,117.38,75.2,88,36,4.47,CN,2020-06-27 23:25:47,descriptionexception,0.0,0.0
+48,Buritis,-15.62,-46.42,70.5,52,5,1.45,BR,2020-06-27 23:25:47,descriptionexception,0.0,0.0
+49,Chabahar,25.29,60.64,85.59,78,25,6.93,IR,2020-06-27 23:25:47,descriptionexception,0.0,0.0
+50,Wamba,8.93,8.6,73.06,88,61,1.59,NG,2020-06-27 23:25:47,descriptionexception,0.35,0.0
+51,San Vicente,-26.62,-54.13,46.63,99,33,3.6,AR,2020-06-27 23:25:47,descriptionexception,0.0,0.0
+52,Mahibadhoo,3.78,72.97,82.8,78,96,12.46,MV,2020-06-27 23:21:05,descriptionexception,0.41,0.0
+53,New Glasgow,45.58,-62.65,73.0,83,88,8.72,CA,2020-06-27 23:25:47,descriptionexception,0.0,0.0
+54,Mizdah,31.45,12.98,80.46,34,8,7.31,LY,2020-06-27 23:25:47,descriptionexception,0.0,0.0
+55,Vila,42.03,-8.16,61.0,93,73,3.0,PT,2020-06-27 23:25:47,descriptionexception,0.0,0.0
+56,Betsiamites,48.94,-68.65,66.2,72,90,11.41,CA,2020-06-27 23:25:47,descriptionexception,0.0,0.0
+57,Mount Gambier,-37.83,140.77,42.8,87,0,8.05,AU,2020-06-27 23:25:47,descriptionexception,0.0,0.0
+58,Pemangkat,1.17,108.97,75.96,84,100,5.84,ID,2020-06-27 23:25:47,descriptionexception,0.0,0.0
+59,Nome,64.5,-165.41,44.6,93,90,19.46,US,2020-06-27 23:22:13,descriptionexception,1.27,0.0
+60,Arraial Do Cabo,-22.97,-42.03,70.18,84,38,11.07,BR,2020-06-27 23:25:47,descriptionexception,0.0,0.0
+61,Pryluky,50.59,32.39,64.96,72,31,4.18,UA,2020-06-27 23:25:47,descriptionexception,0.0,0.0
+62,San Andres,12.58,-81.7,80.6,88,90,9.17,CO,2020-06-27 23:25:28,descriptionexception,0.0,0.0
+63,Novyy Urengoy,66.08,76.63,50.13,82,100,6.98,RU,2020-06-27 23:25:47,descriptionexception,1.37,0.0
+64,Alto Araguaia,-17.31,-53.22,68.23,81,68,8.3,BR,2020-06-27 23:25:47,descriptionexception,0.16,0.0
+65,Vaini,-21.2,-175.2,78.8,83,75,9.17,TO,2020-06-27 23:25:47,descriptionexception,0.0,0.0
+66,Mataura,-46.19,168.86,43.65,92,100,2.39,NZ,2020-06-27 23:25:47,descriptionexception,0.0,0.0
+67,Inverness,57.48,-4.22,60.01,82,91,1.12,GB,2020-06-27 23:25:48,descriptionexception,0.51,0.0
+68,Borogontsy,62.67,131.17,77.02,43,45,2.06,RU,2020-06-27 23:26:53,descriptionexception,0.0,0.0
+69,Rio Grande,-32.03,-52.1,43.0,94,54,6.53,BR,2020-06-27 23:26:32,descriptionexception,0.0,0.0
+70,Nushki,29.55,66.02,78.35,16,10,5.88,PK,2020-06-27 23:25:48,descriptionexception,0.0,0.0
+71,Baherden,38.44,57.43,73.15,20,0,6.89,TM,2020-06-27 23:25:48,descriptionexception,0.0,0.0
+72,Alice Springs,-23.7,133.88,39.2,60,0,1.12,AU,2020-06-27 23:25:48,descriptionexception,0.0,0.0
+73,Qaanaaq,77.48,-69.36,41.38,69,0,0.92,GL,2020-06-27 23:25:48,descriptionexception,0.0,0.0
+74,Abreus,22.28,-80.57,86.0,79,38,4.7,CU,2020-06-27 23:25:48,descriptionexception,0.0,0.0
+75,Aleksandrov Gay,50.15,48.57,66.0,80,0,9.89,RU,2020-06-27 23:25:48,descriptionexception,0.0,0.0
+76,Mahebourg,-20.41,57.7,71.6,83,20,10.29,MU,2020-06-27 23:26:53,descriptionexception,0.0,0.0
+77,Punta Arenas,-53.15,-70.92,32.0,88,0,6.93,CL,2020-06-27 23:21:56,descriptionexception,0.0,0.0
+78,Oranjemund,-28.55,16.43,55.78,73,5,3.22,NA,2020-06-27 23:26:53,descriptionexception,0.0,0.0
+79,Norman Wells,65.28,-126.83,64.4,39,40,13.87,CA,2020-06-27 23:26:53,descriptionexception,0.0,0.0
+80,Tuktoyaktuk,69.45,-133.04,39.2,86,90,17.22,CA,2020-06-27 23:26:53,descriptionexception,0.0,0.0
+81,Cayenne,4.93,-52.33,80.6,83,41,5.7,GF,2020-06-27 23:26:53,descriptionexception,0.0,0.0
+82,Nicolas Bravo,18.45,-88.92,89.6,62,40,11.41,MX,2020-06-27 23:26:53,descriptionexception,0.0,0.0
+83,Soimi,46.68,22.12,70.0,77,1,5.82,RO,2020-06-27 23:26:53,descriptionexception,0.0,0.0
+84,Atambua,-9.11,124.89,71.19,79,54,5.55,ID,2020-06-27 23:26:53,descriptionexception,0.0,0.0
+85,Luderitz,-26.65,15.16,57.2,67,0,12.75,NA,2020-06-27 23:26:53,descriptionexception,0.0,0.0
+86,Swabi,34.12,72.47,86.67,30,0,6.71,PK,2020-06-27 23:26:53,descriptionexception,0.0,0.0
+87,Zhigansk,66.77,123.37,72.84,43,0,6.71,RU,2020-06-27 23:26:54,descriptionexception,0.0,0.0
+88,Kokoda,-8.88,147.74,76.98,69,98,2.51,PG,2020-06-27 23:23:04,descriptionexception,0.15,0.0
+89,Shingu,33.73,135.98,71.6,100,75,6.93,JP,2020-06-27 23:26:54,descriptionexception,0.0,0.0
+90,Komsomolskiy,40.43,71.72,66.2,32,40,6.93,UZ,2020-06-27 23:26:54,descriptionexception,0.0,0.0
+91,Azul,-36.78,-59.86,41.0,85,100,4.94,AR,2020-06-27 23:26:54,descriptionexception,0.0,0.0
+92,Lagunas,-5.23,-75.68,76.19,94,94,1.83,PE,2020-06-27 23:23:03,descriptionexception,0.0,0.0
+93,Tura,25.52,90.22,73.54,98,97,4.79,IN,2020-06-27 23:26:54,descriptionexception,1.67,0.0
+94,Talnakh,69.49,88.4,64.4,77,71,6.71,RU,2020-06-27 23:26:54,descriptionexception,0.0,0.0
+95,Tiksi,71.69,128.87,47.84,81,75,10.2,RU,2020-06-27 23:26:54,descriptionexception,0.0,0.0
+96,Ponta Delgada,37.73,-25.67,68.0,88,75,2.24,PT,2020-06-27 23:26:54,descriptionexception,0.0,0.0
+97,Isangel,-19.55,169.27,77.0,69,20,9.17,VU,2020-06-27 23:26:54,descriptionexception,0.0,0.0
+98,Lima,-12.04,-77.03,62.6,77,75,5.82,PE,2020-06-27 23:23:43,descriptionexception,0.0,0.0
+99,East London,-33.02,27.91,65.12,37,23,15.86,ZA,2020-06-27 23:26:54,descriptionexception,0.0,0.0
+100,New Norfolk,-42.78,147.06,39.99,93,18,2.89,AU,2020-06-27 23:26:54,descriptionexception,0.0,0.0
+101,Constantine,36.37,6.61,71.6,53,40,1.66,DZ,2020-06-27 23:26:54,descriptionexception,0.0,0.0
+102,Padang,-0.95,100.35,77.34,69,82,3.67,ID,2020-06-27 23:23:26,descriptionexception,0.0,0.0
+103,Saint-Philippe,-21.36,55.77,68.0,82,75,6.93,RE,2020-06-27 23:26:54,descriptionexception,0.0,0.0
+104,Cape Town,-33.93,18.42,57.99,76,40,5.82,ZA,2020-06-27 23:26:54,descriptionexception,0.51,0.0
+105,Port Alfred,-33.59,26.89,61.29,68,85,28.36,ZA,2020-06-27 23:26:54,descriptionexception,0.28,0.0
+106,Bonavista,48.65,-53.11,52.97,95,100,3.83,CA,2020-06-27 23:26:54,descriptionexception,0.54,0.0
+107,Barcelos,41.54,-8.62,66.0,93,90,4.7,PT,2020-06-27 23:23:16,descriptionexception,0.0,0.0
+108,Pastavy,55.12,26.83,64.53,93,100,5.5,BY,2020-06-27 23:26:54,descriptionexception,0.0,0.0
+109,Usinsk,65.99,57.53,39.97,90,93,8.77,RU,2020-06-27 23:26:55,descriptionexception,0.0,0.0
+110,Palembang,-2.92,104.75,73.26,98,49,3.87,ID,2020-06-27 23:26:55,descriptionexception,0.0,0.0
+111,Tacoronte,28.48,-16.41,66.99,82,75,14.99,ES,2020-06-27 23:26:55,descriptionexception,0.0,0.0
+112,Turukhansk,65.82,87.98,68.5,61,46,13.85,RU,2020-06-27 23:26:55,descriptionexception,0.0,0.0
+113,Talcahuano,-36.72,-73.12,53.6,93,90,5.82,CL,2020-06-27 23:26:55,descriptionexception,0.0,0.0
+114,Mareeba,-17.0,145.43,73.4,64,40,10.29,AU,2020-06-27 23:26:55,descriptionexception,0.0,0.0
+115,Esso,55.93,158.7,66.74,28,94,8.08,RU,2020-06-27 23:26:55,descriptionexception,0.0,0.0
+116,Mayo,38.89,-76.51,78.8,78,1,3.36,US,2020-06-27 23:26:55,descriptionexception,1.27,0.0
+117,Brookhaven,31.58,-90.44,86.0,80,59,6.76,US,2020-06-27 23:26:55,descriptionexception,0.25,0.0
+118,Alofi,-19.06,-169.92,80.6,69,97,10.29,NU,2020-06-27 23:26:55,descriptionexception,0.0,0.0
+119,Kununurra,-15.77,128.73,62.6,35,22,8.84,AU,2020-06-27 23:26:55,descriptionexception,0.0,0.0
+120,Otane,-39.88,176.63,58.08,81,53,3.24,NZ,2020-06-27 23:26:55,descriptionexception,0.0,0.0
+121,Grand Gaube,-20.01,57.66,72.0,77,43,7.0,MU,2020-06-27 23:26:55,descriptionexception,0.0,0.0
+122,Ashington,50.93,-0.39,62.01,3,92,7.0,GB,2020-06-27 23:26:55,descriptionexception,0.76,0.0
+123,Carutapera,-1.2,-46.02,75.58,93,85,5.84,BR,2020-06-27 23:26:55,descriptionexception,0.0,0.0
+124,Georgetown,5.41,100.34,80.6,94,20,3.85,MY,2020-06-27 23:26:55,descriptionexception,0.0,0.0
+125,Eenhana,-17.47,16.33,53.6,50,0,5.55,NA,2020-06-27 23:26:55,descriptionexception,0.0,0.0
+126,Kattivakkam,13.22,80.32,86.0,79,40,8.05,IN,2020-06-27 23:26:55,descriptionexception,0.0,0.0
+127,Bathsheba,13.22,-59.52,82.4,78,40,19.46,BB,2020-06-27 23:26:55,descriptionexception,0.0,0.0
+128,Batagay-Alyta,67.8,130.41,74.25,45,8,2.01,RU,2020-06-27 23:26:55,descriptionexception,0.0,0.0
+129,Serenje,-13.23,30.24,54.05,76,3,2.89,ZM,2020-06-27 23:26:55,descriptionexception,0.0,0.0
+130,Manokwari,-0.87,134.08,80.8,63,97,2.68,ID,2020-06-27 23:26:56,descriptionexception,0.0,0.0
+131,Cherskiy,68.75,161.3,42.75,63,0,14.97,RU,2020-06-27 23:26:56,descriptionexception,0.0,0.0
+132,Carbunari,44.83,21.74,70.0,64,0,7.14,RO,2020-06-27 23:26:56,descriptionexception,0.0,0.0
+133,Cidreira,-30.18,-50.21,55.36,64,66,6.85,BR,2020-06-27 23:26:56,descriptionexception,0.0,0.0
+134,Los Llanos De Aridane,28.66,-17.92,73.4,64,90,17.22,ES,2020-06-27 23:26:56,descriptionexception,0.0,0.0
+135,Victoria,22.29,114.16,84.99,88,97,5.99,HK,2020-06-27 23:26:56,descriptionexception,0.11,0.0
+136,Puerto Ayora,-0.74,-90.35,71.01,88,60,1.99,EC,2020-06-27 23:26:56,descriptionexception,0.0,0.0
+137,Bilma,18.69,12.92,88.34,13,84,10.04,NE,2020-06-27 23:26:56,descriptionexception,0.0,0.0
+138,Finnsnes,69.23,17.98,44.6,87,76,14.99,NO,2020-06-27 23:26:56,descriptionexception,0.0,0.0
+139,Katsuura,35.13,140.3,73.4,94,90,10.29,JP,2020-06-27 23:26:56,descriptionexception,0.0,0.0
+140,Along,28.17,94.77,71.74,89,98,0.49,IN,2020-06-27 23:26:56,descriptionexception,0.43,0.0
+141,Guerrero Negro,27.98,-114.06,77.92,50,0,16.73,MX,2020-06-27 23:26:56,descriptionexception,0.0,0.0
+142,Bethel,41.37,-73.41,75.2,73,1,5.82,US,2020-06-27 23:26:56,descriptionexception,0.25,0.0
+143,Labuhan,-6.88,112.21,74.44,85,45,7.29,ID,2020-06-27 23:26:56,descriptionexception,0.0,0.0
+144,San Patricio,19.22,-104.7,89.6,62,40,7.05,MX,2020-06-27 23:26:56,descriptionexception,0.0,0.0
+145,Hamilton,39.18,-84.53,79.0,74,1,9.17,US,2020-06-27 23:26:56,descriptionexception,0.25,0.0
+146,Ati,13.22,18.34,91.47,35,40,8.08,TD,2020-06-27 23:26:56,descriptionexception,0.0,0.0
+147,Zhukovka,53.53,33.73,61.84,89,27,4.72,RU,2020-06-27 23:26:56,descriptionexception,0.0,0.0
+148,Kaitangata,-46.28,169.85,48.99,92,99,5.99,NZ,2020-06-27 23:26:56,descriptionexception,0.27,0.0
+149,Clyde River,70.47,-68.59,41.0,86,20,6.93,CA,2020-06-27 23:26:56,descriptionexception,0.0,0.0
+150,Walvis Bay,-22.96,14.51,50.0,76,0,5.82,NA,2020-06-27 23:26:56,descriptionexception,0.0,0.0
+151,Chadiza,-14.07,32.44,60.75,65,61,1.9,ZM,2020-06-27 23:26:57,descriptionexception,0.0,0.0
+152,Grand-Santi,4.25,-54.38,74.52,94,35,1.72,GF,2020-06-27 23:26:57,descriptionexception,0.24,0.0
+153,Santiago Tuxtla,18.47,-95.3,83.64,68,9,7.54,MX,2020-06-27 23:26:57,descriptionexception,0.0,0.0
+154,Lagoa,39.05,-27.98,66.7,96,75,12.39,PT,2020-06-27 23:26:57,descriptionexception,0.0,0.0
+155,Chuy,-33.7,-53.46,46.04,78,16,3.85,UY,2020-06-27 23:26:57,descriptionexception,0.0,0.0
+156,Cascais,38.7,-9.42,68.0,95,0,13.53,PT,2020-06-27 23:26:57,descriptionexception,0.0,0.0
+157,Vostok,46.49,135.88,53.55,96,99,3.56,RU,2020-06-27 23:26:57,descriptionexception,0.0,0.0
+158,Atuona,-9.8,-139.03,80.22,74,20,10.27,PF,2020-06-27 23:26:57,descriptionexception,0.0,0.0
+159,Tocopilla,-22.09,-70.2,59.31,71,39,4.27,CL,2020-06-27 23:26:57,descriptionexception,0.0,0.0
+160,Vanimo,-2.67,141.3,81.97,77,100,4.21,PG,2020-06-27 23:26:57,descriptionexception,0.13,0.0
+161,Migori,-1.06,34.47,64.22,82,98,4.38,KE,2020-06-27 23:26:57,descriptionexception,0.0,0.0
+162,Sterling,39.01,-77.43,87.01,78,75,5.82,US,2020-06-27 23:26:57,descriptionexception,0.0,0.0
+163,Saint George,37.1,-113.58,102.2,8,1,14.99,US,2020-06-27 23:22:45,descriptionexception,0.0,0.0
+164,Butaritari,3.07,172.79,82.89,75,37,16.55,KI,2020-06-27 23:26:57,descriptionexception,0.0,0.0
+165,Hobyo,5.35,48.53,78.51,77,100,21.99,SO,2020-06-27 23:26:57,descriptionexception,0.0,0.0
+166,Carnarvon,-24.87,113.63,62.6,100,90,8.05,AU,2020-06-27 23:26:57,descriptionexception,0.0,0.0
+167,Provideniya,64.38,-173.3,41.7,64,87,15.84,RU,2020-06-27 23:26:57,descriptionexception,0.0,0.0
+168,Sokoni,-6.43,39.55,78.8,83,75,5.82,TZ,2020-06-27 23:26:57,descriptionexception,0.0,0.0
+169,Strenci,57.63,25.69,66.0,77,81,1.01,LV,2020-06-27 23:26:57,descriptionexception,0.0,0.0
+170,Nemuro,43.32,145.57,50.59,97,100,13.78,JP,2020-06-27 23:26:57,descriptionexception,0.0,0.0
+171,Jardim,-21.48,-56.14,61.63,80,100,4.61,BR,2020-06-27 23:26:57,descriptionexception,0.0,0.0
+172,Klaksvik,62.23,-6.59,60.8,87,99,14.99,FO,2020-06-27 23:26:57,descriptionexception,0.0,0.0
+173,Sawtell,-30.38,153.1,59.0,72,5,12.75,AU,2020-06-27 23:26:57,descriptionexception,0.0,0.0
+174,Zalantun,48.0,122.72,69.08,59,11,3.22,CN,2020-06-27 23:26:57,descriptionexception,0.0,0.0
+175,Nabire,-3.37,135.48,78.17,85,83,1.9,ID,2020-06-27 23:26:57,descriptionexception,0.0,0.0
+176,Tanout,14.97,8.89,92.16,11,2,10.13,NE,2020-06-27 23:26:58,descriptionexception,0.0,0.0
+177,Koslan,63.46,48.9,45.64,93,88,6.62,RU,2020-06-27 23:26:58,descriptionexception,0.14,0.0
+178,Okhotsk,59.38,143.3,52.74,71,3,5.53,RU,2020-06-27 23:26:58,descriptionexception,0.0,0.0
+179,Hilo,19.73,-155.09,84.2,62,20,10.29,US,2020-06-27 23:24:54,descriptionexception,0.0,0.0
+180,Anchorage,61.22,-149.9,69.8,40,1,8.05,US,2020-06-27 23:24:04,descriptionexception,0.0,0.0
+181,Nelson Bay,-32.72,152.15,53.6,87,90,6.93,AU,2020-06-27 23:26:58,descriptionexception,0.0,0.0
+182,Roma,43.21,-75.46,71.6,73,75,4.7,US,2020-06-27 23:26:01,descriptionexception,0.0,0.0
+183,Pangai,-19.8,-174.35,77.67,80,98,16.73,TO,2020-06-27 23:26:58,descriptionexception,0.0,0.0
+184,Northam,51.03,-4.22,55.99,89,41,15.01,GB,2020-06-27 23:26:58,descriptionexception,0.13,0.0
+185,Miri,4.41,114.01,73.4,94,40,5.82,MY,2020-06-27 23:26:58,descriptionexception,0.0,0.0
+186,Chumikan,54.72,135.31,44.87,94,100,6.67,RU,2020-06-27 23:26:58,descriptionexception,0.0,0.0
+187,Dwarka,22.24,68.97,86.2,80,100,17.87,IN,2020-06-27 23:26:58,descriptionexception,0.0,0.0
+188,Bambous Virieux,-20.34,57.76,72.0,83,20,10.29,MU,2020-06-27 23:26:58,descriptionexception,0.0,0.0
+189,Ulaanbaatar,47.91,106.88,64.4,59,40,2.24,MN,2020-06-27 23:26:58,descriptionexception,0.0,0.0
+190,Zhanaozen,43.3,52.8,68.45,33,52,7.61,KZ,2020-06-27 23:26:58,descriptionexception,0.0,0.0
+191,Qaqortoq,60.72,-46.03,50.0,61,46,11.41,GL,2020-06-27 23:26:58,descriptionexception,0.0,0.0
+192,Pershotravneve,51.39,28.87,63.93,89,100,6.06,UA,2020-06-27 23:26:58,descriptionexception,0.44,0.0
+193,Chateauroux,46.82,1.7,64.4,88,84,11.41,FR,2020-06-27 23:26:58,descriptionexception,0.0,0.0
+194,Coos Bay,43.37,-124.22,63.0,72,1,20.8,US,2020-06-27 23:23:20,descriptionexception,0.0,0.0
+195,Castro,-24.79,-50.01,51.73,97,100,5.66,BR,2020-06-27 23:26:58,descriptionexception,0.0,0.0
+196,Ponta Do Sol,32.67,-17.1,71.6,78,40,11.41,PT,2020-06-27 23:26:58,descriptionexception,0.0,0.0
+197,Lorengau,-2.02,147.27,82.51,81,97,11.56,PG,2020-06-27 23:26:59,descriptionexception,0.99,0.0
+198,Dudinka,69.41,86.18,64.4,77,92,6.71,RU,2020-06-27 23:26:59,descriptionexception,0.0,0.0
+199,Severo-Kurilsk,50.68,156.12,53.96,56,95,9.6,RU,2020-06-27 23:26:59,descriptionexception,0.0,0.0
+200,Sergeyevka,53.88,67.42,45.23,90,43,7.0,KZ,2020-06-27 23:26:59,descriptionexception,0.0,0.0
+201,Tautira,-17.73,-149.15,86.0,58,20,4.7,PF,2020-06-27 23:26:59,descriptionexception,0.0,0.0
+202,Los Reyes,19.35,-98.97,78.8,31,75,16.11,MX,2020-06-27 23:26:59,descriptionexception,0.0,0.0
+203,Chokurdakh,70.63,147.92,59.92,35,100,13.42,RU,2020-06-27 23:26:59,descriptionexception,0.0,0.0
+204,Orlik,52.52,99.83,56.8,62,17,2.98,RU,2020-06-27 23:26:59,descriptionexception,0.0,0.0
+205,Shellbrook,53.22,-106.4,60.8,87,75,4.7,CA,2020-06-27 23:24:34,descriptionexception,0.0,0.0
+206,Ingraj Bazar,25.0,88.15,80.76,88,100,4.32,IN,2020-06-27 23:26:59,descriptionexception,0.15,0.0
+207,Novoorsk,51.38,58.98,57.2,82,75,8.95,RU,2020-06-27 23:26:59,descriptionexception,0.0,0.0
+208,Myitkyina,25.38,97.4,74.64,97,100,0.98,MM,2020-06-27 23:26:59,descriptionexception,0.86,0.0
+209,Waipawa,-41.41,175.52,57.0,68,82,5.01,NZ,2020-06-27 23:26:59,descriptionexception,0.0,0.0
+210,Mnogovershinnyy,53.94,139.92,45.34,99,98,2.59,RU,2020-06-27 23:26:59,descriptionexception,0.25,0.0
+211,Almaznyy,48.04,40.05,64.4,55,0,4.12,RU,2020-06-27 23:26:59,descriptionexception,0.0,0.0
+212,Tecoanapa,16.52,-98.75,84.7,72,23,8.86,MX,2020-06-27 23:26:59,descriptionexception,0.2,0.0
+213,Mana,5.66,-53.78,78.53,85,60,6.04,GF,2020-06-27 23:26:59,descriptionexception,0.0,0.0
+214,Fortuna,40.6,-124.16,64.0,72,40,14.99,US,2020-06-27 23:26:59,descriptionexception,0.0,0.0
+215,Roros,62.57,11.38,64.4,55,29,8.05,NO,2020-06-27 23:26:59,descriptionexception,0.0,0.0
+216,The Valley,18.22,-63.06,84.2,79,20,11.41,AI,2020-06-27 23:25:10,descriptionexception,0.0,0.0
+217,Dennery,13.9,-60.89,84.2,79,20,6.93,LC,2020-06-27 23:26:59,descriptionexception,0.0,0.0
+218,Port Blair,11.67,92.75,81.93,80,100,7.34,IN,2020-06-27 23:24:11,descriptionexception,0.0,0.0
+219,Opuwo,-18.06,13.84,54.5,39,0,6.87,NA,2020-06-27 23:26:59,descriptionexception,0.0,0.0
+220,Xiamen,24.48,118.08,84.2,83,20,4.47,CN,2020-06-27 23:26:59,descriptionexception,0.0,0.0
+221,Karratha,-20.74,116.85,66.34,27,0,8.99,AU,2020-06-27 23:27:00,descriptionexception,0.0,0.0
+222,Esperance,-33.87,121.9,55.4,54,90,16.11,AU,2020-06-27 23:27:00,descriptionexception,0.0,0.0
+223,Nieuw Amsterdam,5.88,-55.08,82.4,78,40,5.82,SR,2020-06-27 23:27:00,descriptionexception,0.0,0.0
+224,Paungde,18.48,95.5,74.79,93,100,6.6,MM,2020-06-27 23:27:00,descriptionexception,0.0,0.0
+225,Thompson,55.74,-97.86,64.4,88,90,5.66,CA,2020-06-27 23:23:15,descriptionexception,0.0,0.0
+226,Camacha,33.08,-16.33,68.0,88,75,13.87,PT,2020-06-27 23:27:00,descriptionexception,0.0,0.0
+227,Ureki,42.0,41.78,69.8,88,75,3.36,GE,2020-06-27 23:27:00,descriptionexception,0.0,0.0
+228,Cedar City,37.68,-113.06,91.4,9,1,13.87,US,2020-06-27 23:27:00,descriptionexception,0.0,0.0
+229,Tambilil,5.96,124.67,79.68,68,71,2.13,PH,2020-06-27 23:27:00,descriptionexception,0.0,0.0
+230,Trairi,-3.28,-39.27,77.52,81,63,8.61,BR,2020-06-27 23:27:00,descriptionexception,0.0,0.0
+231,Saint-Pierre,-21.34,55.48,68.0,82,75,6.93,RE,2020-06-27 23:27:00,descriptionexception,0.0,0.0
+232,Richards Bay,-28.78,32.04,61.16,64,0,6.71,ZA,2020-06-27 23:27:00,descriptionexception,0.0,0.0
+233,Alyangula,-13.85,136.42,75.2,88,40,3.36,AU,2020-06-27 23:27:00,descriptionexception,0.0,0.0
+234,Iqaluit,63.75,-68.51,39.2,86,20,8.05,CA,2020-06-27 23:27:00,descriptionexception,0.0,0.0
+235,Champerico,14.3,-91.92,84.2,70,75,9.17,GT,2020-06-27 23:27:00,descriptionexception,0.0,0.0
+236,Byron Bay,-28.65,153.62,57.2,93,75,8.05,AU,2020-06-27 23:27:00,descriptionexception,0.0,0.0
+237,Sao Joao Da Barra,-21.64,-41.05,73.26,85,1,11.56,BR,2020-06-27 23:27:00,descriptionexception,0.0,0.0
+238,Sulphur Springs,33.14,-95.6,93.2,44,75,20.8,US,2020-06-27 23:27:00,descriptionexception,0.0,0.0
+239,Ust-Ilimsk,58.0,102.66,66.9,64,59,4.29,RU,2020-06-27 23:26:35,descriptionexception,0.0,0.0
+240,Srednekolymsk,67.45,153.68,53.83,37,38,11.63,RU,2020-06-27 23:27:00,descriptionexception,0.0,0.0
+241,Biak,-0.91,122.88,75.24,77,95,5.06,ID,2020-06-27 23:27:00,descriptionexception,0.24,0.0
+242,Waingapu,-9.66,120.26,74.61,81,72,9.46,ID,2020-06-27 23:27:00,descriptionexception,0.0,0.0
+243,Praia Da Vitoria,38.73,-27.07,71.6,83,90,7.02,PT,2020-06-27 23:24:05,descriptionexception,0.0,0.0
+244,Copiapo,-27.37,-70.33,53.6,87,77,6.93,CL,2020-06-27 23:27:01,descriptionexception,0.0,0.0
+245,Mar Del Plata,-38.0,-57.56,43.0,93,100,3.36,AR,2020-06-27 23:27:01,descriptionexception,0.0,0.0
+246,Tomatlan,19.93,-105.25,89.28,56,73,7.58,MX,2020-06-27 23:27:01,descriptionexception,0.31,0.0
+247,Vigevano,45.31,8.86,69.01,93,4,4.52,IT,2020-06-27 23:27:01,descriptionexception,0.0,0.0
+248,Hasaki,35.73,140.83,72.0,100,75,6.93,JP,2020-06-27 23:27:01,descriptionexception,0.0,0.0
+249,Mapiripan,2.89,-72.13,76.82,86,32,3.91,CO,2020-06-27 23:27:01,descriptionexception,0.0,0.0
+250,Cocobeach,1.0,9.58,77.0,88,20,5.82,GA,2020-06-27 23:27:01,descriptionexception,0.0,0.0
+251,Araouane,18.9,-3.53,97.77,9,1,4.81,ML,2020-06-27 23:27:01,descriptionexception,0.0,0.0
+252,Meulaboh,4.14,96.13,75.78,87,45,3.96,ID,2020-06-27 23:27:01,descriptionexception,0.0,0.0
+253,Elizabeth City,36.29,-76.25,89.01,52,1,6.93,US,2020-06-27 23:27:01,descriptionexception,0.0,0.0
+254,Ahuimanu,21.44,-157.84,84.2,54,75,9.17,US,2020-06-27 23:27:01,descriptionexception,0.0,0.0
+255,Le Vauclin,14.55,-60.84,82.4,78,75,11.41,MQ,2020-06-27 23:27:01,descriptionexception,0.0,0.0
+256,Kargasok,59.06,80.86,63.01,95,94,11.43,RU,2020-06-27 23:27:01,descriptionexception,0.0,0.0
+257,Santa Ana,33.75,-117.87,82.0,60,20,12.75,US,2020-06-27 23:22:37,descriptionexception,0.0,0.0
+258,Emerald,-23.53,148.17,62.6,59,90,8.05,AU,2020-06-27 23:27:01,descriptionexception,0.0,0.0
+259,Te Anau,-45.42,167.72,44.4,85,93,2.64,NZ,2020-06-27 23:27:01,descriptionexception,0.0,0.0
+260,Ancud,-41.87,-73.82,48.0,93,90,2.24,CL,2020-06-27 23:23:11,descriptionexception,0.0,0.0
+261,Brownsburg,39.84,-86.4,75.99,88,75,3.36,US,2020-06-27 23:27:01,descriptionexception,0.0,0.0
+262,Wanaka,-44.7,169.15,37.99,91,100,2.75,NZ,2020-06-27 23:27:01,descriptionexception,2.03,0.0
+263,Rundu,-17.93,19.77,57.2,35,0,3.36,NA,2020-06-27 23:27:01,descriptionexception,0.0,0.0
+264,Camana,-16.62,-72.71,63.0,77,2,6.13,PE,2020-06-27 23:27:02,descriptionexception,0.0,0.0
+265,Shenjiamen,29.96,122.3,76.41,93,99,4.27,CN,2020-06-27 23:27:02,descriptionexception,0.57,0.0
+266,Atar,20.52,-13.05,99.45,9,6,11.21,MR,2020-06-27 23:27:02,descriptionexception,0.0,0.0
+267,Pisco,-13.7,-76.22,64.4,77,4,16.11,PE,2020-06-27 23:27:02,descriptionexception,0.0,0.0
+268,Petropavlovsk-Kamchatskiy,53.05,158.65,73.4,46,6,2.24,RU,2020-06-27 23:27:02,descriptionexception,0.0,0.0
+269,Morro Bay,35.37,-120.85,82.0,86,34,8.01,US,2020-06-27 23:23:12,descriptionexception,0.0,0.0
+270,Aripuana,-9.17,-60.63,78.37,60,36,1.01,BR,2020-06-27 23:27:02,descriptionexception,0.0,0.0
+271,Vestmannaeyjar,63.44,-20.27,52.36,92,100,5.3,IS,2020-06-27 23:27:02,descriptionexception,0.0,0.0
+272,Bandundu,-3.32,17.37,79.09,47,43,2.3,CD,2020-06-27 23:27:02,descriptionexception,0.0,0.0
+273,Dunedin,-45.87,170.5,52.0,90,100,6.33,NZ,2020-06-27 23:24:10,descriptionexception,0.25,0.0
+274,Katsina,12.99,7.6,87.67,42,87,8.48,NG,2020-06-27 23:27:02,descriptionexception,0.0,0.0
+275,Saint-Joseph,-21.37,55.62,68.0,82,75,6.93,RE,2020-06-27 23:27:02,descriptionexception,0.0,0.0
+276,Deputatskiy,69.3,139.9,64.67,53,87,3.76,RU,2020-06-27 23:27:02,descriptionexception,0.0,0.0
+277,Sao Gabriel Da Cachoeira,-0.13,-67.09,87.8,70,40,2.24,BR,2020-06-27 23:27:02,descriptionexception,0.0,0.0
+278,Makakilo City,21.35,-158.09,84.2,65,90,10.29,US,2020-06-27 23:27:02,descriptionexception,0.0,0.0
+279,Halifax,44.65,-63.57,68.0,65,100,10.18,CA,2020-06-27 23:23:32,descriptionexception,0.0,0.0
+280,Sistranda,63.73,8.83,66.2,82,6,9.17,NO,2020-06-27 23:27:02,descriptionexception,0.0,0.0
+281,Dicabisagan,17.08,122.42,82.27,70,100,2.15,PH,2020-06-27 23:27:02,descriptionexception,0.0,0.0
+282,Fairbanks,64.84,-147.72,68.0,39,1,3.36,US,2020-06-27 23:25:03,descriptionexception,0.0,0.0
+283,Port Hardy,50.7,-127.42,62.6,63,40,19.46,CA,2020-06-27 23:27:02,descriptionexception,0.0,0.0
+284,Ballitoville,-29.54,31.21,51.8,87,0,5.82,ZA,2020-06-27 23:27:03,descriptionexception,0.0,0.0
+285,Dubinino,55.62,89.09,62.11,81,1,6.04,RU,2020-06-27 23:27:03,descriptionexception,0.0,0.0
+286,Lavrentiya,65.58,-171.0,38.44,93,100,11.39,RU,2020-06-27 23:27:03,descriptionexception,0.97,0.0
+287,Tabuk,17.42,121.44,77.85,82,100,3.62,PH,2020-06-27 23:27:03,descriptionexception,0.0,0.0
+288,Salalah,17.02,54.09,82.4,94,75,5.82,OM,2020-06-27 23:27:03,descriptionexception,0.0,0.0
+289,Batticaloa,7.71,81.69,80.87,74,76,1.81,LK,2020-06-27 23:27:03,descriptionexception,0.0,0.0
+290,Tessalit,20.2,1.01,97.21,9,47,12.71,ML,2020-06-27 23:27:03,descriptionexception,0.0,0.0
+291,Terrace,54.52,-128.6,59.0,72,75,9.17,CA,2020-06-27 23:24:07,descriptionexception,0.0,0.0
+292,Tarauaca,-8.16,-70.77,76.08,86,84,1.41,BR,2020-06-27 23:27:03,descriptionexception,0.0,0.0
+293,Malakal,9.53,31.66,77.77,72,48,2.89,SS,2020-06-27 23:27:03,descriptionexception,0.0,0.0
+294,Mahon,39.89,4.27,68.0,88,0,1.12,ES,2020-06-27 23:27:03,descriptionexception,0.0,0.0
+295,Chimore,-16.98,-65.13,61.18,65,82,1.88,BO,2020-06-27 23:27:03,descriptionexception,0.0,0.0
+296,Haines Junction,60.75,-137.51,70.54,23,71,5.66,CA,2020-06-27 23:27:03,descriptionexception,0.0,0.0
+297,Naze,28.37,129.48,80.6,88,75,18.34,JP,2020-06-27 23:27:03,descriptionexception,0.0,0.0
+298,Codrington,-38.27,141.97,42.39,83,0,8.3,AU,2020-06-27 23:27:03,descriptionexception,0.0,0.0
+299,Pathein,16.78,94.73,77.22,91,100,3.31,MM,2020-06-27 23:27:03,descriptionexception,0.21,0.0
+300,Constitucion,-35.33,-72.42,53.98,82,100,5.03,CL,2020-06-27 23:27:03,descriptionexception,0.0,0.0
+301,Yar-Sale,66.83,70.83,45.1,76,5,7.09,RU,2020-06-27 23:27:03,descriptionexception,0.0,0.0
+302,Gayny,60.31,54.32,43.2,93,98,8.48,RU,2020-06-27 23:27:03,descriptionexception,0.0,0.0
+303,Keti Bandar,24.14,67.45,86.4,77,12,20.58,PK,2020-06-27 23:24:03,descriptionexception,0.0,0.0
+304,Kidal,18.44,1.41,88.11,26,9,7.92,ML,2020-06-27 23:27:04,descriptionexception,0.0,0.0
+305,Aguas Formosas,-17.08,-40.94,67.37,91,24,1.72,BR,2020-06-27 23:27:04,descriptionexception,0.0,0.0
+306,Tianpeng,30.99,103.94,78.01,1,96,1.36,CN,2020-06-27 23:27:04,descriptionexception,0.0,0.0
+307,Goya,-29.14,-59.26,47.89,71,70,4.99,AR,2020-06-27 23:27:04,descriptionexception,0.0,0.0
+308,Kyren,51.68,102.14,64.92,54,24,1.88,RU,2020-06-27 23:27:04,descriptionexception,0.0,0.0
+309,Sitka,57.05,-135.33,59.0,72,75,16.11,US,2020-06-27 23:27:04,descriptionexception,0.0,0.0
+310,Poronaysk,49.22,143.12,51.78,85,100,3.89,RU,2020-06-27 23:27:04,descriptionexception,0.0,0.0
+311,Progreso,21.28,-89.67,89.01,69,75,17.76,MX,2020-06-27 23:27:04,descriptionexception,0.0,0.0
+312,Cuamba,-14.8,36.54,64.6,64,2,2.24,MZ,2020-06-27 23:27:04,descriptionexception,0.0,0.0
+313,Torbay,47.67,-52.73,55.0,100,90,2.24,CA,2020-06-27 23:27:04,descriptionexception,1.21,0.0
+314,Mazyr,52.05,29.25,66.27,83,99,8.08,BY,2020-06-27 23:27:04,descriptionexception,0.0,0.0
+315,Port Lincoln,-34.73,135.87,52.7,53,0,10.92,AU,2020-06-27 23:27:04,descriptionexception,0.0,0.0
+316,Ilhabela,-23.78,-45.36,63.23,84,100,1.3,BR,2020-06-27 23:26:28,descriptionexception,0.0,0.0
+317,North Bend,43.41,-124.22,63.0,72,1,20.8,US,2020-06-27 23:27:04,descriptionexception,0.0,0.0
+318,Henties Bay,-22.12,14.28,50.0,87,0,10.38,NA,2020-06-27 23:27:04,descriptionexception,0.0,0.0
+319,Saint-Georges,12.06,-61.75,80.6,88,20,17.22,GD,2020-06-27 23:27:04,descriptionexception,0.0,0.0
+320,Biankouma,7.74,-7.61,69.48,97,87,2.57,CI,2020-06-27 23:27:04,descriptionexception,0.0,0.0
+321,Havre-Saint-Pierre,50.23,-63.6,64.4,77,1,13.87,CA,2020-06-27 23:27:04,descriptionexception,0.0,0.0
+322,Vila Velha,-20.33,-40.29,77.0,69,5,11.41,BR,2020-06-27 23:27:04,descriptionexception,0.0,0.0
+323,Seoul,37.57,126.98,73.4,88,20,5.82,KR,2020-06-27 23:27:04,descriptionexception,0.0,0.0
+324,Vila Praia De Ancora,41.81,-8.85,64.99,100,75,1.12,PT,2020-06-27 23:27:04,descriptionexception,0.0,0.0
+325,Nieuwpoort,51.12,2.77,61.0,77,100,10.29,BE,2020-06-27 23:27:04,descriptionexception,0.0,0.0
+326,Manggar,-2.88,108.27,80.94,83,82,12.24,ID,2020-06-27 23:27:04,descriptionexception,0.0,0.0
+327,Pinotepa Nacional,16.32,-98.02,82.36,76,76,6.58,MX,2020-06-27 23:27:05,descriptionexception,0.68,0.0
+328,Lompoc,34.64,-120.46,72.0,64,11,13.87,US,2020-06-27 23:27:05,descriptionexception,0.0,0.0
+329,Coihaique,-45.58,-72.07,32.0,92,75,4.7,CL,2020-06-27 23:27:05,descriptionexception,0.0,0.0
+330,Gat,31.61,34.76,73.0,83,0,1.83,IL,2020-06-27 23:27:05,descriptionexception,0.0,0.0
+331,Karacabey,40.22,28.4,71.6,83,0,8.05,TR,2020-06-27 23:27:05,descriptionexception,0.0,0.0
+332,Nouadhibou,20.93,-17.03,71.6,73,2,20.8,MR,2020-06-27 23:27:05,descriptionexception,0.0,0.0
+333,Kavaratti,10.57,72.64,83.16,75,58,17.74,IN,2020-06-27 23:27:05,descriptionexception,0.82,0.0
+334,Pacific Grove,36.62,-121.92,62.6,77,75,12.75,US,2020-06-27 23:25:02,descriptionexception,0.0,0.0
+335,Berlevag,70.86,29.09,44.13,87,100,15.84,NO,2020-06-27 23:27:05,descriptionexception,0.0,0.0
+336,Hibbing,47.43,-92.94,82.4,37,75,3.36,US,2020-06-27 23:24:36,descriptionexception,0.0,0.0
+337,Brae,60.4,-1.35,57.2,93,100,17.22,GB,2020-06-27 23:27:05,descriptionexception,0.0,0.0
+338,Moroni,-11.7,43.26,75.61,76,2,5.26,KM,2020-06-27 23:22:56,descriptionexception,0.0,0.0
+339,Aginskoye,51.1,114.53,67.53,55,91,2.39,RU,2020-06-27 23:27:05,descriptionexception,0.0,0.0
+340,Tommot,58.96,126.29,68.72,64,61,2.04,RU,2020-06-27 23:27:05,descriptionexception,0.0,0.0
+341,Bosaso,11.28,49.18,91.63,46,91,18.7,SO,2020-06-27 23:27:05,descriptionexception,0.0,0.0
+342,Okha,53.57,142.95,50.95,95,100,3.67,RU,2020-06-27 23:27:05,descriptionexception,0.0,0.0
+343,Boone,39.03,-92.33,80.01,76,90,3.0,US,2020-06-27 23:27:05,descriptionexception,0.22,0.0
+344,Mao,39.89,4.27,68.0,88,0,1.12,ES,2020-06-27 23:27:05,descriptionexception,0.0,0.0
+345,Iralaya,15.0,-83.23,77.0,88,90,10.78,HN,2020-06-27 23:27:05,descriptionexception,0.0,0.0
+346,Shache,38.42,77.24,68.65,33,28,10.2,CN,2020-06-27 23:27:05,descriptionexception,0.0,0.0
+347,Cabo San Lucas,22.89,-109.91,89.6,49,75,11.41,MX,2020-06-27 23:25:06,descriptionexception,0.0,0.0
+348,Zhangye,38.93,100.45,64.98,46,0,2.73,CN,2020-06-27 23:27:06,descriptionexception,0.0,0.0
+349,Beringovskiy,63.05,179.32,43.45,59,32,20.15,RU,2020-06-27 23:27:06,descriptionexception,0.0,0.0
+350,Airai,-8.93,125.41,59.07,91,22,3.74,TL,2020-06-27 23:27:06,descriptionexception,0.0,0.0
+351,Saint-Cesaire,45.42,-73.0,77.0,49,62,5.99,CA,2020-06-27 23:27:06,descriptionexception,0.0,0.0
+352,Sept-Iles,50.2,-66.38,68.0,64,40,9.17,CA,2020-06-27 23:25:12,descriptionexception,0.0,0.0
+353,Muros,42.78,-9.06,61.0,90,26,3.96,ES,2020-06-27 23:27:06,descriptionexception,0.0,0.0
+354,Ust-Kuyga,70.02,135.6,79.48,41,78,4.99,RU,2020-06-27 23:27:06,descriptionexception,0.0,0.0
+355,The Pas,53.83,-101.25,62.6,100,90,4.7,CA,2020-06-27 23:27:06,descriptionexception,0.0,0.0
+356,Kamarion,36.8,25.82,75.0,60,0,11.01,GR,2020-06-27 23:27:06,descriptionexception,0.0,0.0
+357,Tiznit,29.58,-9.5,68.68,58,0,1.12,MA,2020-06-27 23:27:06,descriptionexception,0.0,0.0
+358,Ahar,38.48,47.07,52.68,68,43,3.33,IR,2020-06-27 23:27:06,descriptionexception,0.0,0.0
+359,San Quintin,30.48,-115.95,69.89,68,4,12.06,MX,2020-06-27 23:27:06,descriptionexception,0.0,0.0
+360,Bonthe,7.53,-12.51,77.95,86,100,10.96,SL,2020-06-27 23:27:06,descriptionexception,0.13,0.0
+361,Dogondoutchi,13.64,4.03,95.36,25,85,2.35,NE,2020-06-27 23:27:06,descriptionexception,0.0,0.0
+362,Hope,33.67,-93.59,91.0,62,22,4.0,US,2020-06-27 23:26:58,descriptionexception,0.0,0.0
+363,Virginia Beach,36.85,-75.98,91.0,43,20,9.17,US,2020-06-27 23:26:12,descriptionexception,0.0,0.0
+364,Mackay,-21.15,149.2,68.0,82,75,11.41,AU,2020-06-27 23:27:06,descriptionexception,0.0,0.0
+365,Cap Malheureux,-19.98,57.61,72.0,77,40,7.0,MU,2020-06-27 23:27:06,descriptionexception,0.0,0.0
+366,Saldanha,-33.01,17.94,57.2,76,36,3.36,ZA,2020-06-27 23:27:06,descriptionexception,0.0,0.0
+367,Wunsiedel,50.03,12.02,64.99,90,15,1.99,DE,2020-06-27 23:27:06,descriptionexception,0.12,0.0
+368,Nadvoitsy,63.87,34.32,45.64,82,37,3.38,RU,2020-06-27 23:27:06,descriptionexception,0.0,0.0
+369,Husavik,66.04,-17.34,46.4,93,90,1.12,IS,2020-06-27 23:27:06,descriptionexception,0.0,0.0
+370,Bahir Dar,11.59,37.39,61.41,87,91,4.09,ET,2020-06-27 23:27:06,descriptionexception,0.61,0.0
+371,Abakaliki,6.32,8.12,77.0,94,40,3.36,NG,2020-06-27 23:27:07,descriptionexception,0.0,0.0
+372,Acapulco,16.86,-99.89,86.0,74,40,3.36,MX,2020-06-27 23:24:38,descriptionexception,0.0,0.0
+373,Bom Jesus Da Lapa,-13.26,-43.42,75.36,42,10,5.66,BR,2020-06-27 23:27:07,descriptionexception,0.0,0.0
+374,Jaisinghnagar,23.7,81.38,80.44,75,100,4.63,IN,2020-06-27 23:27:07,descriptionexception,0.0,0.0
+375,Opportunity,47.65,-117.24,78.8,22,20,18.34,US,2020-06-27 23:22:41,descriptionexception,0.0,0.0
+376,Mount Isa,-20.73,139.5,62.6,51,0,17.56,AU,2020-06-27 23:27:07,descriptionexception,0.0,0.0
+377,Ouadda,8.08,22.4,67.12,90,52,1.99,CF,2020-06-27 23:27:07,descriptionexception,0.0,0.0
+378,Fare,-16.7,-151.02,77.54,74,48,16.51,PF,2020-06-27 23:27:07,descriptionexception,0.0,0.0
+379,Yershov,51.35,48.28,63.46,90,1,11.97,RU,2020-06-27 23:27:07,descriptionexception,0.0,0.0
+380,Yellowknife,62.46,-114.35,72.0,52,75,6.93,CA,2020-06-27 23:27:07,descriptionexception,0.0,0.0
+381,Kutum,14.2,24.67,74.41,44,67,3.02,SD,2020-06-27 23:27:07,descriptionexception,0.0,0.0
+382,Esna,25.29,32.55,86.0,33,0,3.36,EG,2020-06-27 23:27:07,descriptionexception,0.0,0.0
+383,Fairlie,55.76,-4.86,53.01,92,100,11.01,GB,2020-06-27 23:27:07,descriptionexception,0.51,0.0
+384,Ambilobe,-13.2,49.05,66.97,85,0,2.44,MG,2020-06-27 23:27:07,descriptionexception,0.0,0.0
+385,Margate,51.38,1.39,61.0,74,100,7.0,GB,2020-06-27 23:27:07,descriptionexception,0.0,0.0
+386,Andenes,69.31,16.12,48.2,87,94,25.28,NO,2020-06-27 23:27:07,descriptionexception,0.0,0.0
+387,Cockburn Town,21.46,-71.14,86.0,74,40,11.41,TC,2020-06-27 23:26:42,descriptionexception,0.0,0.0
+388,Hami,42.8,93.45,74.44,37,0,1.57,CN,2020-06-27 23:27:07,descriptionexception,0.0,0.0
+389,Lensk,60.73,114.93,70.07,59,57,4.5,RU,2020-06-27 23:27:07,descriptionexception,0.0,0.0
+390,Belyy Yar,53.6,91.39,59.0,93,2,2.24,RU,2020-06-27 23:27:07,descriptionexception,0.0,0.0
+391,Noumea,-22.28,166.46,71.6,68,20,3.36,NC,2020-06-27 23:26:54,descriptionexception,0.0,0.0
+392,Saskylakh,71.92,114.08,54.84,58,39,4.38,RU,2020-06-27 23:27:07,descriptionexception,0.0,0.0
+393,Alibag,18.64,72.88,80.6,94,90,5.82,IN,2020-06-27 23:27:07,descriptionexception,0.0,0.0
+394,Kloulklubed,7.04,134.26,80.6,88,90,13.71,PW,2020-06-27 23:27:08,descriptionexception,0.0,0.0
+395,Pizarro,4.95,-77.37,77.86,88,99,6.76,CO,2020-06-27 23:27:08,descriptionexception,1.44,0.0
+396,Gornoye Loo,43.71,39.6,71.6,78,75,6.71,RU,2020-06-27 23:27:08,descriptionexception,0.0,0.0
+397,Coolum Beach,-26.53,153.1,59.0,96,87,4.0,AU,2020-06-27 23:27:08,descriptionexception,0.73,0.0
+398,Ostrovnoy,68.05,39.51,41.5,84,100,16.22,RU,2020-06-27 23:27:08,descriptionexception,0.0,0.0
+399,Tokur,53.13,132.9,64.71,62,100,2.13,RU,2020-06-27 23:27:08,descriptionexception,0.0,0.0
+400,Iwanai,42.97,140.51,62.46,90,100,3.96,JP,2020-06-27 23:27:08,descriptionexception,0.0,0.0
+401,Shizunai,42.33,142.37,59.85,93,100,10.89,JP,2020-06-27 23:27:08,descriptionexception,0.18,0.0
+402,Khash,28.22,61.22,70.29,25,45,3.15,IR,2020-06-27 23:27:08,descriptionexception,0.0,0.0
+403,Lumsden,50.65,-104.87,78.8,50,20,11.41,CA,2020-06-27 23:23:07,descriptionexception,0.0,0.0
+404,Chardara,41.25,67.97,63.18,30,0,6.76,KZ,2020-06-27 23:27:08,descriptionexception,0.0,0.0
+405,Krasnoselkup,65.7,82.47,57.11,84,66,12.35,RU,2020-06-27 23:27:08,descriptionexception,0.63,0.0
+406,Flinders,-34.58,150.86,54.0,80,56,7.0,AU,2020-06-27 23:27:08,descriptionexception,0.0,0.0
+407,Pangnirtung,66.15,-65.71,49.57,63,73,2.57,CA,2020-06-27 23:27:08,descriptionexception,0.0,0.0
+408,Leshukonskoye,64.9,45.76,42.85,93,84,7.96,RU,2020-06-27 23:27:08,descriptionexception,0.0,0.0
+409,Tarumovka,44.08,46.54,60.21,71,52,6.73,RU,2020-06-27 23:27:08,descriptionexception,0.0,0.0
+410,Inuvik,68.35,-133.72,55.4,54,75,11.41,CA,2020-06-27 23:25:46,descriptionexception,0.0,0.0
+411,Ocos,14.51,-92.19,87.8,74,20,8.05,GT,2020-06-27 23:27:08,descriptionexception,0.0,0.0
+412,Vardo,70.37,31.11,44.55,86,97,13.96,NO,2020-06-27 23:27:08,descriptionexception,0.0,0.0
+413,Bocas Del Toro,9.33,-82.25,63.0,89,99,8.79,PA,2020-06-27 23:27:08,descriptionexception,1.09,0.0
+414,Kijang,35.24,129.21,77.0,73,23,1.12,KR,2020-06-27 23:27:08,descriptionexception,0.0,0.0
+415,Avera,33.19,-82.53,86.0,62,1,9.17,US,2020-06-27 23:27:08,descriptionexception,0.0,0.0
+416,Bulgan,48.81,103.53,61.52,73,96,1.86,MN,2020-06-27 23:27:08,descriptionexception,0.0,0.0
+417,Aflao,6.12,1.19,78.8,88,40,12.75,TG,2020-06-27 23:27:09,descriptionexception,0.0,0.0
+418,Axim,4.87,-2.24,76.71,87,99,10.76,GH,2020-06-27 23:27:09,descriptionexception,0.49,0.0
+419,Neuquen,-38.95,-68.06,35.6,93,75,9.42,AR,2020-06-27 23:27:09,descriptionexception,0.0,0.0
+420,Sao Joao,-8.88,-36.37,63.43,98,27,4.83,BR,2020-06-27 23:27:09,descriptionexception,0.0,0.0
+421,Ewo,-0.87,14.82,76.35,72,14,4.27,CG,2020-06-27 23:27:09,descriptionexception,0.0,0.0
+422,Adrar,20.5,-10.07,98.56,8,0,10.54,MR,2020-06-27 23:27:09,descriptionexception,0.0,0.0
+423,Mount Pleasant,32.79,-79.86,88.0,62,1,4.7,US,2020-06-27 23:27:09,descriptionexception,0.0,0.0
+424,Charters Towers,-20.1,146.27,64.98,67,17,10.54,AU,2020-06-27 23:27:09,descriptionexception,0.0,0.0
+425,Bengkulu,-3.8,102.27,75.69,84,69,4.03,ID,2020-06-27 23:27:09,descriptionexception,0.0,0.0
+426,Adand,46.86,18.16,70.14,71,7,5.01,HU,2020-06-27 23:27:09,descriptionexception,0.0,0.0
+427,Lerwick,60.15,-1.15,57.2,93,100,17.22,GB,2020-06-27 23:27:09,descriptionexception,0.0,0.0
+428,Sur,22.57,59.53,84.7,73,77,15.37,OM,2020-06-27 23:27:09,descriptionexception,0.0,0.0
+429,Kirakira,-10.45,161.92,84.45,72,8,8.3,SB,2020-06-27 23:27:09,descriptionexception,0.0,0.0
+430,Vaasa,63.1,21.62,59.0,72,17,6.93,FI,2020-06-27 23:27:09,descriptionexception,0.0,0.0
+431,Ulladulla,-35.35,150.47,48.2,76,40,8.05,AU,2020-06-27 23:27:09,descriptionexception,0.0,0.0
+432,Vagur,61.47,-6.81,53.92,97,99,23.49,FO,2020-06-27 23:27:09,descriptionexception,0.0,0.0
+433,Gresham,45.5,-122.43,69.01,49,90,8.05,US,2020-06-27 23:27:09,descriptionexception,0.0,0.0
+434,Swindon,51.56,-1.78,55.4,87,75,17.22,GB,2020-06-27 23:27:09,descriptionexception,0.25,0.0
+435,Price,39.6,-110.81,91.4,13,1,11.41,US,2020-06-27 23:27:09,descriptionexception,0.0,0.0
+436,Krasnokamensk,50.1,118.04,69.17,43,25,4.9,RU,2020-06-27 23:27:09,descriptionexception,0.0,0.0
+437,Half Moon Bay,37.46,-122.43,81.0,53,40,16.11,US,2020-06-27 23:27:09,descriptionexception,0.0,0.0
+438,Panji,-7.73,114.1,73.33,74,87,4.79,ID,2020-06-27 23:27:09,descriptionexception,0.0,0.0
+439,Mantua,45.17,10.78,72.0,77,1,1.99,IT,2020-06-27 23:27:10,descriptionexception,0.0,0.0
+440,Kruisfontein,-34.0,24.73,54.23,74,84,25.59,ZA,2020-06-27 23:27:10,descriptionexception,0.13,0.0
+441,Palmer,42.16,-72.33,66.99,93,90,3.65,US,2020-06-27 23:25:26,descriptionexception,0.0,0.0
+442,Jega,12.22,4.38,86.9,55,25,4.07,NG,2020-06-27 23:27:10,descriptionexception,1.2,0.0
+443,Mercedes,-34.65,-59.43,48.0,85,3,3.89,AR,2020-06-27 23:26:39,descriptionexception,0.0,0.0
+444,Haverfordwest,51.8,-4.97,57.2,87,62,28.86,GB,2020-06-27 23:27:10,descriptionexception,0.22,0.0
+445,Posse,-14.09,-46.37,69.48,50,10,2.77,BR,2020-06-27 23:27:10,descriptionexception,0.0,0.0
+446,Schongau,47.82,10.9,61.0,82,22,2.24,DE,2020-06-27 23:27:10,descriptionexception,0.0,0.0
+447,Takoradi,4.88,-1.76,76.82,87,100,11.12,GH,2020-06-27 23:27:10,descriptionexception,0.13,0.0
+448,Bilibino,68.05,166.44,43.75,58,59,11.65,RU,2020-06-27 23:27:10,descriptionexception,0.0,0.0
+449,Antofagasta,-23.65,-70.4,59.0,77,90,9.17,CL,2020-06-27 23:27:10,descriptionexception,0.0,0.0
+450,Pafos,34.77,32.42,75.2,88,0,9.17,CY,2020-06-27 23:27:10,descriptionexception,0.0,0.0
+451,Vadso,70.07,29.75,42.8,93,83,12.75,NO,2020-06-27 23:27:10,descriptionexception,0.0,0.0
+452,Nagato,34.38,131.2,73.4,83,75,2.24,JP,2020-06-27 23:27:10,descriptionexception,0.0,0.0
+453,Vuktyl,63.86,57.31,40.71,77,30,8.05,RU,2020-06-27 23:27:10,descriptionexception,0.0,0.0
+454,Yeppoon,-23.13,150.73,66.2,63,90,10.29,AU,2020-06-27 23:27:10,descriptionexception,0.0,0.0
+455,Zhanakorgan,43.91,67.25,53.83,47,0,4.27,KZ,2020-06-27 23:27:10,descriptionexception,0.0,0.0
+456,Sakakah,29.97,40.21,84.2,11,0,3.36,SA,2020-06-27 23:27:10,descriptionexception,0.0,0.0
+457,Umm Lajj,25.02,37.27,86.4,39,15,9.75,SA,2020-06-27 23:27:10,descriptionexception,0.0,0.0
+458,Harper,4.38,-7.72,76.23,82,87,9.98,LR,2020-06-27 23:27:10,descriptionexception,0.0,0.0
+459,Korgen,66.08,13.82,61.0,72,12,1.01,NO,2020-06-27 23:27:10,descriptionexception,0.0,0.0
+460,Kameshkovo,56.35,41.0,59.22,88,34,1.72,RU,2020-06-27 23:27:10,descriptionexception,0.0,0.0
+461,Castrillon,43.4,-6.79,62.6,88,90,3.36,ES,2020-06-27 23:27:10,descriptionexception,0.0,0.0
+462,Tilichiki,60.47,166.1,58.53,57,44,10.45,RU,2020-06-27 23:27:10,descriptionexception,0.0,0.0
+463,Misratah,32.38,15.09,74.61,75,0,11.14,LY,2020-06-27 23:26:48,descriptionexception,0.0,0.0
+464,Vao,-22.67,167.48,69.76,65,2,15.35,NC,2020-06-27 23:27:10,descriptionexception,0.0,0.0
+465,Alugan,12.22,125.48,80.82,81,100,3.74,PH,2020-06-27 23:27:11,descriptionexception,0.83,0.0
+466,Kichmengskiy Gorodok,59.98,45.79,45.01,95,0,6.64,RU,2020-06-27 23:27:11,descriptionexception,0.0,0.0
+467,Baykit,61.67,96.37,68.47,59,100,2.77,RU,2020-06-27 23:27:11,descriptionexception,0.0,0.0
+468,Diamantino,-14.41,-56.45,73.15,69,0,5.53,BR,2020-06-27 23:27:11,descriptionexception,0.0,0.0
+469,Uglovskoye,51.36,80.19,55.76,59,6,15.77,RU,2020-06-27 23:27:11,descriptionexception,0.0,0.0
+470,Shebalino,51.29,85.68,58.32,59,86,7.52,RU,2020-06-27 23:27:11,descriptionexception,0.0,0.0
+471,Tarazona,41.9,-1.73,75.2,64,8,4.7,ES,2020-06-27 23:27:11,descriptionexception,0.0,0.0
+472,Barra Do Corda,-5.5,-45.25,75.31,67,0,2.19,BR,2020-06-27 23:27:11,descriptionexception,0.0,0.0
+473,Plettenberg Bay,-34.05,23.37,57.61,65,94,23.76,ZA,2020-06-27 23:27:11,descriptionexception,0.0,0.0
+474,Mitchell,43.71,-98.03,87.8,43,1,10.29,US,2020-06-27 23:27:11,descriptionexception,0.0,0.0
+475,Pitimbu,-7.47,-34.81,75.2,94,82,4.7,BR,2020-06-27 23:27:11,descriptionexception,0.0,0.0
+476,Santa Maria,-29.68,-53.81,46.94,89,0,5.93,BR,2020-06-27 23:27:11,descriptionexception,0.0,0.0
+477,Itarema,-2.92,-39.92,77.04,83,83,10.69,BR,2020-06-27 23:27:11,descriptionexception,0.0,0.0
+478,Thabazimbi,-24.59,27.41,47.32,48,0,0.92,ZA,2020-06-27 23:27:11,descriptionexception,0.0,0.0
+479,Kenora,49.82,-94.43,82.4,39,20,10.29,CA,2020-06-27 23:22:37,descriptionexception,0.0,0.0
+480,Salinopolis,-0.61,-47.36,79.03,85,20,9.46,BR,2020-06-27 23:24:37,descriptionexception,0.0,0.0
+481,Klyuchi,52.27,79.17,55.13,63,54,21.39,RU,2020-06-27 23:27:11,descriptionexception,0.0,0.0
+482,Samarai,-10.62,150.67,78.96,83,97,16.46,PG,2020-06-27 23:27:11,descriptionexception,0.0,0.0
+483,Ajdabiya,30.76,20.23,71.82,63,0,8.57,LY,2020-06-27 23:27:11,descriptionexception,0.0,0.0
+484,Aurora,39.73,-104.83,89.6,13,40,5.82,US,2020-06-27 23:24:12,descriptionexception,0.0,0.0
+485,Celestun,20.87,-90.4,88.12,62,2,19.44,MX,2020-06-27 23:27:11,descriptionexception,0.0,0.0
+486,Ialibu,-6.28,143.99,64.4,93,75,2.08,PG,2020-06-27 23:23:04,descriptionexception,0.0,0.0
+487,Egvekinot,66.32,-179.17,33.4,92,96,3.71,RU,2020-06-27 23:27:11,descriptionexception,0.0,0.0
+488,La Reforma,25.08,-108.05,93.0,78,100,8.01,MX,2020-06-27 23:27:11,descriptionexception,0.0,0.0
+489,Nouna,12.73,-3.87,81.99,58,98,17.49,BF,2020-06-27 23:27:12,descriptionexception,0.0,0.0
+490,Cangzhou,38.32,116.87,78.96,52,54,9.89,CN,2020-06-27 23:27:12,descriptionexception,0.0,0.0
+491,Kamenka,51.32,42.77,63.0,74,0,1.01,RU,2020-06-27 23:27:12,descriptionexception,0.0,0.0
+492,Ambon,-3.7,128.18,77.0,94,40,3.36,ID,2020-06-27 23:27:12,descriptionexception,0.0,0.0
+493,Forio,40.73,13.86,75.0,60,21,1.01,IT,2020-06-27 23:27:12,descriptionexception,0.0,0.0
+494,Mountain Home,43.13,-115.69,86.0,22,20,14.99,US,2020-06-27 23:27:12,descriptionexception,0.0,0.0
+495,Chortomlyk,47.62,34.14,73.02,62,20,3.85,UA,2020-06-27 23:27:12,descriptionexception,0.0,0.0
+496,Ilulissat,69.22,-51.1,37.4,93,60,4.7,GL,2020-06-27 23:27:12,descriptionexception,0.0,0.0
+497,Tete,-16.16,33.59,69.8,60,40,0.98,MZ,2020-06-27 23:23:09,descriptionexception,0.0,0.0
+498,Indramayu,-6.33,108.32,78.06,81,2,8.41,ID,2020-06-27 23:27:12,descriptionexception,0.0,0.0
+499,North Tonawanda,43.04,-78.86,75.2,69,75,13.87,US,2020-06-27 23:24:49,descriptionexception,0.0,0.0
+500,Ust-Karsk,52.7,118.81,68.38,56,0,1.81,RU,2020-06-27 23:27:12,descriptionexception,0.0,0.0
+501,Tarko-Sale,64.92,77.78,52.0,93,100,14.38,RU,2020-06-27 23:27:12,descriptionexception,2.11,0.0
+502,Akhmeta,42.03,45.21,62.6,93,90,5.82,GE,2020-06-27 23:27:12,descriptionexception,0.0,0.0
+503,Ko Samui,9.54,99.94,82.4,78,20,2.24,TH,2020-06-27 23:27:12,descriptionexception,0.0,0.0
+504,Gander,48.97,-54.59,59.0,93,90,4.7,CA,2020-06-27 23:27:12,descriptionexception,0.0,0.0
+505,Chase,50.82,-119.69,64.4,59,75,10.29,CA,2020-06-27 23:27:12,descriptionexception,0.0,0.0
+506,Namtsy,62.72,129.67,73.4,53,0,2.24,RU,2020-06-27 23:27:12,descriptionexception,0.0,0.0
+507,Sehore,23.2,77.08,79.7,81,98,7.29,IN,2020-06-27 23:27:12,descriptionexception,0.18,0.0
+508,Deniliquin,-35.53,144.97,43.0,91,0,5.03,AU,2020-06-27 23:27:12,descriptionexception,0.0,0.0
+509,Rawson,-43.3,-65.1,37.9,72,0,6.31,AR,2020-06-27 23:27:12,descriptionexception,0.0,0.0
+510,Merauke,-8.47,140.33,79.0,77,99,14.76,ID,2020-06-27 23:27:12,descriptionexception,0.0,0.0
+511,Zyryanka,65.75,150.85,68.95,32,3,9.69,RU,2020-06-27 23:27:13,descriptionexception,0.0,0.0
+512,College,64.86,-147.8,68.0,37,40,5.82,US,2020-06-27 23:27:13,descriptionexception,0.0,0.0
+513,West Wendover,40.74,-114.07,98.6,8,1,10.29,US,2020-06-27 23:27:13,descriptionexception,0.0,0.0
+514,Shorapani,42.09,43.09,68.0,82,40,4.7,GE,2020-06-27 23:27:13,descriptionexception,0.0,0.0
+515,Juneau,58.3,-134.42,62.6,59,75,4.7,US,2020-06-27 23:27:13,descriptionexception,0.0,0.0
+516,Namatanai,-3.67,152.43,82.8,76,58,7.83,PG,2020-06-27 23:23:04,descriptionexception,0.52,0.0
+517,Osa,57.28,55.46,49.89,95,64,6.76,RU,2020-06-27 23:27:13,descriptionexception,0.94,0.0
+518,Ushtobe,45.25,77.98,57.38,51,97,17.27,KZ,2020-06-27 23:27:13,descriptionexception,0.0,0.0
+519,Houma,29.6,-90.72,88.0,79,40,9.17,US,2020-06-27 23:27:13,descriptionexception,0.0,0.0
+520,Aguas Vermelhas,-15.75,-41.46,63.57,93,30,3.04,BR,2020-06-27 23:27:13,descriptionexception,0.0,0.0
+521,Paita,-5.09,-81.11,65.86,82,73,14.99,PE,2020-06-27 23:27:13,descriptionexception,0.0,0.0
+522,Hudiksvall,61.73,17.1,52.0,97,0,7.85,SE,2020-06-27 23:27:13,descriptionexception,0.0,0.0
+523,El Alto,-4.27,-81.21,65.71,83,86,12.28,PE,2020-06-27 23:27:13,descriptionexception,0.0,0.0
+524,Jalu,29.03,21.55,77.09,45,0,7.94,LY,2020-06-27 23:27:13,descriptionexception,0.0,0.0
+525,Hualmay,-11.1,-77.61,63.37,81,83,7.2,PE,2020-06-27 23:27:13,descriptionexception,0.0,0.0
+526,Portland,45.52,-122.68,70.0,52,40,14.99,US,2020-06-27 23:26:52,descriptionexception,0.0,0.0
+527,Saint-Louis,16.33,-15.0,82.4,51,13,6.93,SN,2020-06-27 23:27:13,descriptionexception,0.0,0.0
+528,Sainte-Suzanne,-20.91,55.61,69.8,83,55,10.29,RE,2020-06-27 23:27:13,descriptionexception,0.0,0.0
+529,Xai-Xai,-25.05,33.64,61.36,60,0,8.37,MZ,2020-06-27 23:27:13,descriptionexception,0.0,0.0
+530,Rio Bananal,-19.27,-40.33,69.66,88,19,3.24,BR,2020-06-27 23:27:13,descriptionexception,0.0,0.0
+531,Belmonte,-15.86,-38.88,71.6,88,40,4.7,BR,2020-06-27 23:27:13,descriptionexception,0.0,0.0
+532,Bowen,-20.02,148.23,72.0,77,90,6.93,AU,2020-06-27 23:27:13,descriptionexception,0.0,0.0
+533,Saint-Augustin,51.23,-58.65,54.7,79,94,15.01,CA,2020-06-27 23:27:13,descriptionexception,0.0,0.0
+534,Dali,25.7,100.18,63.37,85,79,4.45,CN,2020-06-27 23:27:13,descriptionexception,0.0,0.0
+535,Hailar,49.2,119.7,69.19,47,38,1.3,CN,2020-06-27 23:27:14,descriptionexception,0.0,0.0
+536,Taoudenni,22.68,-3.98,100.33,8,0,10.71,ML,2020-06-27 23:27:14,descriptionexception,0.0,0.0
+537,Puerto Del Rosario,28.5,-13.86,73.4,69,90,18.34,ES,2020-06-27 23:27:14,descriptionexception,0.0,0.0
+538,Chaohu,31.6,117.87,75.2,100,90,13.42,CN,2020-06-27 23:27:14,descriptionexception,0.0,0.0
+539,Narsaq,60.92,-46.05,50.0,61,61,11.41,GL,2020-06-27 23:27:14,descriptionexception,0.0,0.0
+540,San Lazaro,18.04,-88.66,89.6,62,40,11.41,BZ,2020-06-27 23:27:14,descriptionexception,0.0,0.0
+541,Chipinge,-20.19,32.62,56.95,58,0,1.7,ZW,2020-06-27 23:27:14,descriptionexception,0.0,0.0
+542,Pacifica,37.61,-122.49,66.2,63,20,19.46,US,2020-06-27 23:27:04,descriptionexception,0.0,0.0
+543,Malanje,-9.54,16.34,59.54,44,50,3.91,AO,2020-06-27 23:27:14,descriptionexception,0.0,0.0
+544,Aras,42.56,-2.36,68.0,82,6,1.12,ES,2020-06-27 23:27:14,descriptionexception,0.0,0.0
+545,Asau,46.43,26.4,64.99,75,0,5.37,RO,2020-06-27 23:27:14,descriptionexception,0.0,0.0
+546,Mosquera,4.71,-74.23,64.4,48,40,8.05,CO,2020-06-27 23:24:57,descriptionexception,0.0,0.0
+547,El Bagre,7.59,-74.81,79.05,92,71,2.86,CO,2020-06-27 23:25:18,descriptionexception,2.05,0.0
+548,Wukari,7.85,9.78,75.13,90,55,5.12,NG,2020-06-27 23:27:14,descriptionexception,0.16,0.0
+549,Port Moresby,-9.44,147.18,78.51,81,93,6.22,PG,2020-06-27 23:25:18,descriptionexception,0.0,0.0
+550,Boksitogorsk,59.47,33.85,58.75,65,95,6.76,RU,2020-06-27 23:27:14,descriptionexception,0.0,0.0
+551,Medak,18.03,78.27,75.0,76,100,1.99,IN,2020-06-27 23:27:14,descriptionexception,0.9,0.0
+552,Guozhen,34.37,107.36,70.83,78,83,2.42,CN,2020-06-27 23:27:14,descriptionexception,0.0,0.0
+553,Khandagayty,50.73,92.05,61.25,50,0,6.42,RU,2020-06-27 23:27:14,descriptionexception,0.0,0.0
+554,Puerto Baquerizo Moreno,-0.9,-89.6,69.84,86,41,10.54,EC,2020-06-27 23:27:14,descriptionexception,0.0,0.0
+555,Karari,25.45,81.43,84.99,59,98,5.48,IN,2020-06-27 23:27:14,descriptionexception,0.0,0.0
+556,Lahat,-3.8,103.53,70.81,92,64,2.35,ID,2020-06-27 23:27:14,descriptionexception,0.0,0.0
+557,Svetlogorsk,52.63,29.73,66.31,85,100,8.61,BY,2020-06-27 23:27:14,descriptionexception,0.22,0.0
+558,Sao Filipe,14.9,-24.5,74.61,83,0,12.12,CV,2020-06-27 23:27:14,descriptionexception,0.0,0.0
+559,Ngunguru,-35.62,174.5,60.01,78,0,4.0,NZ,2020-06-27 23:27:14,descriptionexception,0.0,0.0
+560,Menongue,-14.66,17.69,48.83,51,0,2.37,AO,2020-06-27 23:27:14,descriptionexception,0.0,0.0
+561,Lashio,22.93,97.75,66.88,100,100,1.05,MM,2020-06-27 23:27:15,descriptionexception,0.0,0.0
+562,Devils Lake,48.11,-98.87,89.6,38,1,17.22,US,2020-06-27 23:26:36,descriptionexception,0.0,0.0
+563,Ternate,0.8,127.4,80.08,78,81,1.7,ID,2020-06-27 23:27:15,descriptionexception,0.35,0.0
+564,Naantali,60.47,22.02,62.6,67,0,3.36,FI,2020-06-27 23:27:15,descriptionexception,0.0,0.0
+565,Taywarah,33.35,64.42,51.33,61,0,6.55,AF,2020-06-27 23:27:15,descriptionexception,0.0,0.0
+566,Paamiut,61.99,-49.67,41.34,84,88,1.79,GL,2020-06-27 23:27:15,descriptionexception,0.0,0.0
+567,Hirara,24.8,125.28,86.0,94,75,8.05,JP,2020-06-27 23:27:15,descriptionexception,0.0,0.0
+568,Chiang Klang,19.29,100.86,77.0,100,40,1.12,TH,2020-06-27 23:27:15,descriptionexception,0.0,0.0
+569,Puerto Lempira,15.27,-83.77,77.0,88,90,6.98,HN,2020-06-27 23:27:15,descriptionexception,0.0,0.0
+570,Bermeo,43.42,-2.72,68.0,88,75,6.93,ES,2020-06-27 23:27:15,descriptionexception,0.0,0.0
