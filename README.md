@@ -1,50 +1,48 @@
 # World_Weather_Analysis
 
-## Plan:
-Basic Project Plan
-Here’s an outline of your project plan:
 
-Task: Collect and analyze weather data across cities worldwide.
-	-Purpose: PlanMyTrip will use the data to recommend ideal hotels based on clients’ weather preferences.
-	-Method: Create a Pandas DataFrame with 500 or more of the world’s unique cities and their weather data in real   time. This process will entail collecting, analyzing, and visualizing the data.
+# Part 1 
+## Get the Weather Description and Amount of Precipitation for Each City
 
-Your analysis of the data will be split into three main parts, or stages.
+Generated a random set of 1,500 latitudes and longitudes. Then used teh citipy module and OpenWaetherMap API to create a new dataframe with city and weather info. Exported to CSV for later use.
 
-### Collect the Data
-	-Use the NumPy module to generate more than 1,500 random latitudes and longitudes.
-	-Use the citipy module to list the nearest city to the latitudes and longitudes.
-	-Use the OpenWeatherMap API to request the current weather data from each unique city in your list.
-	-Parse the JSON data from the API request.
-	-Collect the following data from the JSON file and add it to a DataFrame:
-		-City, country, and date
-		-Latitude and longitude
-		-Maximum temperature
-		-Humidity
-		-Cloudiness
-		-Wind speed
+![](images/city_data_snapshot.png)
 
-### Exploratory Analysis with Visualization
-	-Create scatter plots of the weather data for the following comparisons:
-		-Latitude versus temperature
-		-Latitude versus humidity
-		-Latitude versus cloudiness
-		-Latitude versus wind speed
-	-Determine the correlations for the following weather data:
-		-Latitude and temperature
-		-Latitude and humidity
-		-Latitude and cloudiness
-		-Latitude and wind speed
-	-Create a series of heatmaps using the Google Maps and Places API that showcases the following:
-		-Latitude and temperature
-		-Latitude and humidity
-		-Latitude and cloudiness
-		-Latitude and wind speed
 
-### Visualize Travel Data
-Create a heatmap with pop-up markers that can display information on specific cities based on a customer’s travel preferences. Complete these steps:
 
-	-Filter the Pandas DataFrame based on user inputs for a minimum and maximum temperature.
-	-Create a heatmap for the new DataFrame.
-	-Find a hotel from the cities’ coordinates using Google’s Maps and Places API, and Search Nearby feature.
-	-Store the name of the first hotel in the DataFrame.
-	-Add pop-up markers to the heatmap that display information about the city, current maximum temperature, and a hotel in the city.
+# Part 2 
+## Have Customers Narrow Their Travel Searches Based on Temperature and Precipitation
+
+Prompt the user for a temperature range & precipitation. Use this data to filter the data to a subset of vacation options. Export the new data to CSV and plot a map with markers for each city.
+
+![](images/WeatherPy_vacation_map.png)
+
+
+
+# Part 3 
+## Create a Travel Itinerary with a Corresponding Map
+Of the vacation options select (4) cities on the same continent to travel to. Generate (2) maps" 
+- One with driving directions
+![](images/WeatherPy_travel_map.png)
+
+
+- One with information pop-ups for each city
+![](images/WeatherPy_travel_map_markers.png)
+
+
+
+
+## Cleaned directory and organized as below
+## Parts 1, 2, and 3 of the challenge
+- Weather_Database.ipynb
+- Vacation_Search.ipynb
+- Vacation_Itinerary.ipynb
+
+## "weather_data” folder containing the following CSV files
+- WeatherPy_database.csv
+- WeatherPy_vacation.csv
+
+## “image” folder containing the images from Parts 2 and 3
+- WeatherPy_vacation_map.png
+- WeatherPy_travel_map.png
+- WeatherPy_travel_map_markers.png
